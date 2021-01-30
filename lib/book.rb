@@ -4,9 +4,9 @@ class Book
     @title = title
   end
 
-  def name
+  def title
     @title
   end
 
-
+  def
 end
